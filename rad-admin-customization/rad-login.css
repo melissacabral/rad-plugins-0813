@@ -1,0 +1,7 @@
+.login h1 a{
+	background-image:url('images/logo.png');
+	background-size:auto;
+}
+body.login{
+	background-color: #B9D8DB;
+}
